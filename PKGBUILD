@@ -9,7 +9,7 @@ license=('Apache Public License 2.0')
 depends=('docker')
 makedepends=('python2-virtualenv')
 provides=('docker-rpm-builder')
-source=('docker-rpm-builder::git+https://github.com/dansou901/docker-rpm-builder#branch=v1dev')
+source=('docker-rpm-builder::git+https://github.com//alanfranz/docker-rpm-builder#branch=v1dev')
 md5sums=('SKIP')
 
 pkgver() {
